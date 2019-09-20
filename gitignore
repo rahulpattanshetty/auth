@@ -1,0 +1,16 @@
+# Android
+.idea
+.gradle
+local.properties
+*.iml
+/android/
+
+
+# Node
+node_modules
+*.log
+.nvm
+package-lock.json
+npm-debug.log
+yarn-error.log
+yarn.lock
